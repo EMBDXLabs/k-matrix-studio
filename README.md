@@ -14,7 +14,7 @@ Open, explore, edit, compare and merge DBC, ARXML, FIBEX and LDF files — in on
 |--------|-----------|-------|
 | `.dbc` | CAN / CAN FD | Multiplexing, attributes, value tables, comments |
 | `.arxml` | CAN / FlexRay | AUTOSAR 4.x and 3.x |
-| `.fibex` | CAN / FlexRay | ASAM FIBEX |
+| `.fibex` | FlexRay | ASAM FIBEX |
 | `.ldf` | LIN | LIN 2.x |
 
 Multiple files open simultaneously as tabs. Drag & drop supported.
